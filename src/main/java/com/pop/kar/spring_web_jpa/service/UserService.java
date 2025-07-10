@@ -5,7 +5,7 @@ import com.pop.kar.spring_web_jpa.dto.post.UserWithoutPostDTOMapper;
 import com.pop.kar.spring_web_jpa.dto.user.UserDTO;
 import com.pop.kar.spring_web_jpa.dto.user.UserDTOMapper;
 import com.pop.kar.spring_web_jpa.entitiy.User;
-import com.pop.kar.spring_web_jpa.exeption.UserNotFoundException;
+import com.pop.kar.spring_web_jpa.exception.UserNotFoundException;
 import com.pop.kar.spring_web_jpa.repository.UserRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

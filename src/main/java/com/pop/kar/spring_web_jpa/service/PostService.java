@@ -2,7 +2,7 @@ package com.pop.kar.spring_web_jpa.service;
 
 import com.pop.kar.spring_web_jpa.entitiy.Post;
 import com.pop.kar.spring_web_jpa.entitiy.User;
-import com.pop.kar.spring_web_jpa.exeption.PostNotFoundException;
+import com.pop.kar.spring_web_jpa.exception.PostNotFoundException;
 import com.pop.kar.spring_web_jpa.repository.PostRepository;
 import com.pop.kar.spring_web_jpa.repository.UserRepository;
 import org.springframework.stereotype.Service;

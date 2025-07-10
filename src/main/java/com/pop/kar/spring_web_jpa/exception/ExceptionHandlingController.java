@@ -1,4 +1,4 @@
-package com.pop.kar.spring_web_jpa.exeption;
+package com.pop.kar.spring_web_jpa.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
